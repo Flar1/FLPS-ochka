@@ -1,0 +1,3 @@
+str
+dom
+cat
